@@ -11,7 +11,7 @@
 #
 
 #
-# Print the value in the coordinates (x,y) provided
+# Print the number of squares in a NxN grid using the value of N
 #
 **/
 
